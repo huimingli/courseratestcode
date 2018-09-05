@@ -118,6 +118,7 @@
   <ItemGroup>
     <ClCompile Include="choose.cpp" />
     <ClCompile Include="cowpresident.cpp" />
+    <ClCompile Include="DNA.cpp" />
     <ClCompile Include="kth.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

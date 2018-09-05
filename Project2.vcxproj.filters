@@ -30,5 +30,8 @@
     <ClCompile Include="cowpresident.cpp">
       <Filter>源文件\第三周</Filter>
     </ClCompile>
+    <ClCompile Include="DNA.cpp">
+      <Filter>源文件\第三周</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
