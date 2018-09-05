@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\第三周">
+      <UniqueIdentifier>{e1e58f02-2ac3-4e18-b713-344625c27a6c}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -23,6 +26,9 @@
     </ClCompile>
     <ClCompile Include="choose.cpp">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cowpresident.cpp">
+      <Filter>源文件\第三周</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
